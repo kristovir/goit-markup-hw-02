@@ -21,6 +21,9 @@ body {
 .logo-web {
   color: #2196f3;
 }
+.logo-studio-black {
+  color: black;
+}
 .link,
 .button-filter {
   font-weight: 500;
